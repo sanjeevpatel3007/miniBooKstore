@@ -1,0 +1,177 @@
+[{
+  "_id": {
+    "$oid": "6623649aec5a12457cae8944"
+  },
+  "id": 5,
+  "name": "Mystery Thriller",
+  "title": "Beyond the Unknown",
+  "price": 0,
+  "category": "Free",
+  "img": "https://images.pexels.com/photos/6475045/pexels-photo-6475045.jpeg?auto=compress&cs=tinysrgb&w=600"
+  
+},
+{
+  "_id": {
+    "$oid": "6623649aec5a12457cae8945"
+  },
+  "id": 6,
+  "name": "Educational Journey",
+  "title": "Exploring New Horizons",
+  "price": 11.99,
+  "category": "Education",
+  "img": "https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498_640.jpg"
+},
+{
+  "_id": {
+    "$oid": "6623649aec5a12457cae8946"
+  },
+  "id": 7,
+  "name": "Biography Collection",
+  "title": "Inspiring Lives",
+  "price": 17.99,
+  "category": "Biography",
+  "img": "https://cdn.pixabay.com/photo/2015/11/19/21/14/glasses-1052023_640.jpg"
+},
+{
+  "_id": {
+    "$oid": "6623649aec5a12457cae8947"
+  },
+  "id": 8,
+  "name": "Mystery Uncovered",
+  "title": "The Hidden Truth",
+  "price": 0,
+  "category": "Free",
+  "img": "https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498_640.jpg"
+},
+{
+  "_id": {
+    "$oid": "6623649aec5a12457cae8948"
+  },
+  "id": 9,
+  "name": "Educational Insights",
+  "title": "A World of Knowledge",
+  "price": 9.99,
+  "category": "Education",
+  "img": "https://images.pexels.com/photos/6475045/pexels-photo-6475045.jpeg?auto=compress&cs=tinysrgb&w=600"
+},
+{
+  "_id": {
+    "$oid": "6623649aec5a12457cae8949"
+  },
+  "id": 10,
+  "name": "History Chronicles",
+  "title": "Echoes of the Past",
+  "price": 0,
+  "category": "Free",
+  "img": "https://cdn.pixabay.com/photo/2018/07/01/20/01/music-3510326_640.jpg"
+},
+{
+  "_id": {
+    "$oid": "6623649aec5a12457cae894a"
+  },
+  "id": 11,
+  "name": "Biographical Tales",
+  "title": "Journeys in Life",
+  "price": 12.49,
+  "category": "Biography",
+  "img": "https://cdn.pixabay.com/photo/2016/09/10/17/18/book-1659717_640.jpg"
+},
+{
+  "_id": {
+    "$oid": "6623649aec5a12457cae894b"
+  },
+  "id": 12,
+  "name": "Mystery Revealed",
+  "title": "Unmasking the Unknown",
+  "price": 0,
+  "category": "Free",
+  "img": "https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498_640.jpg"
+},
+{
+  "_id": {
+    "$oid": "6623649aec5a12457cae894c"
+  },
+  "id": 13,
+  "name": "Educational Odyssey",
+  "title": "Quest for Knowledge",
+  "price": 14.99,
+  "category": "Education",
+  "img": "https://cdn.pixabay.com/photo/2015/11/19/21/14/glasses-1052023_640.jpg"
+},
+{
+  "_id": {
+    "$oid": "6623649aec5a12457cae894d"
+  },
+  "id": 14,
+  "name": "Biographical Masterpieces",
+  "title": "Legends of Life",
+  "price": 0,
+  "category": "Biography",
+  "img": "https://cdn.pixabay.com/photo/2017/02/26/21/39/rose-2101475_640.jpg"
+},
+{
+  "_id": {
+    "$oid": "6623649aec5a12457cae894e"
+  },
+  "id": 15,
+  "name": "Mystery Escapades",
+  "title": "Journey into Darkness",
+  "price": 0,
+  "category": "Free",
+  "img": "https://cdn.pixabay.com/photo/2018/07/01/20/01/music-3510326_640.jpg"
+},
+{
+  "_id": {
+    "$oid": "6623649aec5a12457cae894f"
+  },
+  "id": 16,
+  "name": "Educational Explorations",
+  "title": "Discovering the World",
+  "price": 16.99,
+  "category": "Education",
+  "img": "https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498_640.jpg"
+},
+{
+  "_id": {
+    "$oid": "6623649aec5a12457cae8950"
+  },
+  "id": 17,
+  "name": "Historical Biographies",
+  "title": "Profiles in Time",
+  "price": 0,
+  "category": "Free",
+  "img": "https://cdn.pixabay.com/photo/2018/07/01/20/01/music-3510326_640.jpg"
+},
+{
+  "_id": {
+    "$oid": "6623649aec5a12457cae8951"
+  },
+  "id": 18,
+  "name": "Mystery Chronicles",
+  "title": "Enigmas of the Ages",
+  "price": 0,
+  "category": "Free",
+  "img": "https://cdn.pixabay.com/photo/2017/02/26/21/39/rose-2101475_640.jpg"
+},
+{
+  "_id": {
+    "$oid": "6623649aec5a12457cae8952"
+  },
+  "id": 19,
+  "name": "Educational Encounters",
+  "title": "Learning Adventures",
+  "price": 10.99,
+  "category": "Education",
+  "img": "https://images.pexels.com/photos/1989704/pexels-photo-1989704.jpeg?auto=compress&cs=tinysrgb&w=600"
+},
+{
+  "_id": {
+    "$oid": "6623649aec5a12457cae8953"
+  },
+  "id": 20,
+  "name": "Biographical Reflections",
+  "title": "Stories of Lives",
+  "price": 0,
+  "category": "Free",
+  "img": "https://images.pexels.com/photos/20147082/pexels-photo-20147082/free-photo-of-a-sunset-over-a-river-and-mountains.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+}]

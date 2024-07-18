@@ -1,0 +1,152 @@
+[
+    {
+      "id": 1,
+      "name": "Mystery Novel",
+      "title": "The Enigma of Shadows",
+      "price": 0,
+      "category": "Free",
+      "image": "data:image/jpeg;base64,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"
+
+    },
+    {
+      "id": 2,
+      "name": "Biography",
+      "title": "A Life Remembered",
+      "price": 14.99,
+      "category": "Biography",
+      "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=1&uuid=9b775dad-3276-4a35-ad1d-c7f7343539d6"   },
+    {
+      "id": 3,
+      "name": "Education Essentials",
+      "title": "Unlocking Knowledge",
+      "price": 8.49,
+      "category": "Education",
+      "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=1&uuid=9b775dad-3276-4a35-ad1d-c7f7343539d6"   },
+    {
+      "id": 4,
+      "name": "Historical Mysteries",
+      "title": "Secrets of the Past",
+      "price": 0,
+      "category": "Free",
+      "image":  "../..public/img/book2.avif" },
+    {
+      "id": 5,
+      "name": "Mystery Thriller",
+      "title": "Beyond the Unknown",
+      "price": 0,
+      "category": "Free",
+      "img": "./public/img/book1.avif"    },
+    {
+      "id": 6,
+      "name": "Educational Journey",
+      "title": "Exploring New Horizons",
+      "price": 11.99,
+      "category": "Education",
+      "img": "././public/img/book2.avif"    },
+    {
+      "id": 7,
+      "name": "Biography Collection",
+      "title": "Inspiring Lives",
+      "price": 17.99,
+      "category": "Biography",
+      "img": "./public/img/book10.jpg"    },
+    {
+      "id": 8,
+      "name": "Mystery Uncovered",
+      "title": "The Hidden Truth",
+      "price": 0,
+      "category": "Free",
+      "img": "./public/img/book8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Educational Insights",
+      "title": "A World of Knowledge",
+      "price": 9.99,
+      "category": "Education",
+      "img": "./public/img/book10.jpg"    },
+    {
+      "id": 10,
+      "name": "History Chronicles",
+      "title": "Echoes of the Past",
+      "price": 0,
+      "category": "Free",
+      "img": "./public/img/book10.jpg"    },
+    {
+      "id": 11,
+      "name": "Biographical Tales",
+      "title": "Journeys in Life",
+      "price": 12.49,
+      "category": "Biography",
+      "img": "./public/img/book10.jpg"    },
+    {
+      "id": 12,
+      "name": "Mystery Revealed",
+      "title": "Unmasking the Unknown",
+      "price": 0,
+      "category": "Free",
+      "img": "./public/img/book10.jpg"    },
+    {
+      "id": 13,
+      "name": "Educational Odyssey",
+      "title": "Quest for Knowledge",
+      "price": 14.99,
+      "category": "Education",
+      "img": "./public/img/book10.jpg"    },
+    {
+      "id": 14,
+      "name": "Biographical Masterpieces",
+      "title": "Legends of Life",
+      "price": 0,
+      "category": "Biography",
+      "img": "./public/img/book10.jpg"    },
+    {
+      "id": 15,
+      "name": "Mystery Escapades",
+      "title": "Journey into Darkness",
+      "price": 0,
+      "category": "Free",
+      "img": "./public/img/book15.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Educational Explorations",
+      "title": "Discovering the World",
+      "price": 16.99,
+      "category": "Education",
+      "img": "./public/img/book16.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Historical Biographies",
+      "title": "Profiles in Time",
+      "price": 0,
+      "category": "Free",
+      "img": "./public/img/book17.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Mystery Chronicles",
+      "title": "Enigmas of the Ages",
+      "price": 0,
+      "category": "Free",
+      "img": "./public/img/book18.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Educational Encounters",
+      "title": "Learning Adventures",
+      "price": 10.99,
+      "category": "Education",
+      "img": "./public/img/book19.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Biographical Reflections",
+      "title": "Stories of Lives",
+      "price": 0,
+      "category": "Free",
+      "img": "./public/img/book20.jpg"
+    }
+  ]
+  

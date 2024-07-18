@@ -1,0 +1,102 @@
+[
+    {
+      "id": 5,
+      "name": "Mystery Thriller",
+      "title": "Beyond the Unknown",
+      "price": 0,
+      "category": "Free",
+      "img": "https://images.pexels.com/photos/6475045/pexels-photo-6475045.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "story": "Embark on an educational journey through diverse subjects and topics, uncovering new horizons of knowledge and understanding. From history to science, literature to art, this book inspires curiosity and exploration, offering insights and discoveries in every chapter."
+    },
+    {
+      "id": 6,
+      "name": "Educational Journey",
+      "title": "Exploring New Horizons",
+      "price": 11.99,
+      "category": "Education",
+      "img": "https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498_640.jpg",
+      "story": "Embark on an educational odyssey with 'Exploring New Horizons.' Delve into the depths of knowledge and discovery as you traverse diverse subjects and topics. From ancient history to modern science, this book is your passport to a world of learning and enlightenment."
+    },
+    {
+      "id": 7,
+      "name": "Biography Collection",
+      "title": "Inspiring Lives",
+      "price": 17.99,
+      "category": "Biography",
+      "img": "https://cdn.pixabay.com/photo/2015/11/19/21/14/glasses-1052023_640.jpg",
+      "story": "Discover the extraordinary lives and experiences of remarkable individuals with 'Inspiring Lives.' From iconic leaders to unsung heroes, this collection of biographies offers a glimpse into the triumphs and tribulations of those who shaped history and inspired generations."
+    },
+    {
+      "id": 8,
+      "name": "Mystery Uncovered",
+      "title": "The Hidden Truth",
+      "price": 0,
+      "category": "Free",
+      "img": "https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498_640.jpg",
+      "story": "Uncover the mysteries of the universe with 'The Hidden Truth.' From ancient civilizations to modern enigmas, this book takes you on a thrilling journey of discovery and revelation. Prepare to be captivated by secrets waiting to be revealed."
+    },
+    {
+      "id": 9,
+      "name": "Educational Insights",
+      "title": "A World of Knowledge",
+      "price": 9.99,
+      "category": "Education",
+      "img": "https://images.pexels.com/photos/6475045/pexels-photo-6475045.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "story": "Gain valuable insights and expand your horizons with 'A World of Knowledge.' Explore a vast array of subjects and disciplines, from history and geography to science and technology. This book is your gateway to a deeper understanding of the world around you."
+    },
+    {
+      "id": 10,
+      "name": "History Chronicles",
+      "title": "Echoes of the Past",
+      "price": 0,
+      "category": "Free",
+      "img": "https://cdn.pixabay.com/photo/2018/07/01/20/01/music-3510326_640.jpg",
+      "story": "Travel back in time and witness 'Echoes of the Past.' Delve into the annals of history, from ancient civilizations to modern revolutions. This book chronicles the triumphs and tragedies of humanity, offering a compelling narrative of the human experience."
+    },
+    {
+      "id": 11,
+      "name": "Biographical Tales",
+      "title": "Journeys in Life",
+      "price": 12.49,
+      "category": "Biography",
+      "img": "https://cdn.pixabay.com/photo/2016/09/10/17/18/book-1659717_640.jpg",
+      "story": "Embark on captivating journeys with 'Biographical Tales.' Discover the lives of extraordinary individuals, from trailblazing pioneers to cultural icons. Each tale offers a unique perspective on the human experience, inspiring and enlightening readers along the way."
+    },
+    {
+      "id": 12,
+      "name": "Mystery Revealed",
+      "title": "Unmasking the Unknown",
+      "price": 0,
+      "category": "Free",
+      "img": "https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498_640.jpg",
+      "story": "Unravel the mysteries of the universe with 'Unmasking the Unknown.' From ancient artifacts to modern enigmas, this book uncovers the hidden truths waiting to be discovered. Prepare to be amazed as you journey into the depths of the unknown."
+    },
+    {
+      "id": 13,
+      "name": "Educational Odyssey",
+      "title": "Quest for Knowledge",
+      "price": 14.99,
+      "category": "Education",
+      "img": "https://cdn.pixabay.com/photo/2015/11/19/21/14/glasses-1052023_640.jpg",
+      "story": "Embark on an epic educational odyssey with 'Quest for Knowledge.' Explore diverse subjects and disciplines, from science and mathematics to literature and art. This book is your guide to a journey of discovery and enlightenment."
+    },
+    {
+      "id": 14,
+      "name": "Biographical Masterpieces",
+      "title": "Legends of Life",
+      "price": 0,
+      "category": "Biography",
+      "img": "https://cdn.pixabay.com/photo/2017/02/26/21/39/rose-2101475_640.jpg",
+      "story": "Explore the lives of legendary figures with 'Legends of Life.' From historical icons to cultural heroes, this book celebrates the remarkable achievements and enduring legacies of extraordinary individuals. Discover the stories behind the legends."
+    },
+    {
+      "id": 15,
+      "name": "Mystery Escapades",
+      "title": "Journey into Darkness",
+      "price": 0,
+      "category": "Free",
+      "img": "https://cdn.pixabay.com/photo/2018/07/01/20/01/music-3510326_640.jpg",
+      "story": "Embark on thrilling escapades with 'Journey into Darkness.' Explore the shadowy realms of mystery and intrigue, where secrets lurk around every corner. This book promises an exhilarating journey into the heart of darkness."
+    }
+]
+  
